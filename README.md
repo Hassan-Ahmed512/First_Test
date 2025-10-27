@@ -1,2 +1,1 @@
-My name is hassan ahmed
-I am trying to learn how to use gitHub profisionally
+My name is Hassan Ahmed. I am trying to learn how to use GitHub professionally.
