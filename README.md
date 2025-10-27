@@ -1,1 +1,2 @@
-My name is Hassan Ahmed Hassan . I am trying to be a netdev engineer expert.
+My name is hassan ahmed
+I am trying to learn how to use gitHub profisionally
